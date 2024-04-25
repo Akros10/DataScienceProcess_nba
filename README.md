@@ -1,7 +1,7 @@
 # NBA Performance Analysis
 
 ## Motivation
-This project aims to analyze the performance trends of NBA teams and players between 1997 and 2023 using statistical data. By examining various metrics such as points scored, rebounds, assists, and more, we seek to uncover insights into the evolution of gameplay strategies, player performance, and team dynamics over the years.
+This project aims to analyze the performance trends of NBA teams and players between 1997 and 2023 using statistical data. By examining various metrics such as points scored, rebounds, assists, and more, we seek to uncover insights into the evolution of gameplay strategies, player performance, and team dynamics over the years with especial focus in the playoffs.
 
 ## Libraries Used
 - Pandas: Data manipulation and analysis.
