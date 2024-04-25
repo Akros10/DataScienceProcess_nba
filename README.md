@@ -24,3 +24,6 @@ After conducting the analysis, several trends and insights were observed:
 
 ## Acknowledgments
 We would like to express our gratitude to the person who added this dataset from NBA in KAGGLE so I can used for this work. Additionally, we thank the open-source community for developing and maintaining the libraries and tools that made this project possible.
+
+## related post
+https://medium.com/@daniel.garciad/is-the-nba-still-national-or-it-is-becoming-international-7a3824fe8eaf
